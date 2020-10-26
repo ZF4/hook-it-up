@@ -1,0 +1,17 @@
+.test {
+    justify-content: center;
+    align-content: center;
+    display: flex;
+}
+
+.img {
+    justify-content: center;
+    display: flex;
+    align-content: center;
+    width: 350px;
+    height: 200px;
+}
+
+.text {
+    color: white
+}
